@@ -1,0 +1,6 @@
+@SlackWebAPI_HostAddress = http://localhost:5089
+
+GET {{SlackWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
